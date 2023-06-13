@@ -1,1 +1,1 @@
-my shell basics
+start of the projects
